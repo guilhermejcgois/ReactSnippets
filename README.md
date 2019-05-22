@@ -1,11 +1,4 @@
 # ReactSnippets
-Live Templates for React in IntelliJ products webstorm and idea.
-
-![react_snippets](images/3.gif)
-
-![react_snippets](images/1.jpg)
-
-![react_snippets](images/2.jpg)
 
 | Trigger | Content |
 | --- | --- |
